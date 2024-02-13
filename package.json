@@ -1,0 +1,11 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "hardhat-helpers": "^0.1.51"
+  }
+}
